@@ -2,7 +2,6 @@
 software eng 2018
 
 # team number
-
 -นาย แดน
 -นาย นิก
 -นาง ปิ่น
